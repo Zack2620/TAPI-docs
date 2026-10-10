@@ -1,6 +1,7 @@
 site_name: TAPI Documentation
 site_description: The official Treason-API documentation!
 site_url: https://chriss5dev.github.io/TAPI-docs/
+repo_url: https://github.com/chriss5dev/TAPI-docs
 nav:
     - Home: index.md
     - Table of Contents: nav.md
